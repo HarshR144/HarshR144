@@ -39,4 +39,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshR144&th
 
 
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshR144&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false)](https://github.com/HarshR144/github-readme-activity-graph)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshR144&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false)](https://github.com/HarshR144/)
