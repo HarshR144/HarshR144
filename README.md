@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harsh Repal</h1>
+<p align="center">
+  <img src="https://github.com/HarshR144/HarshR144/assets/112339307/3f6ccbe7-845c-4c67-9297-d2a9919dae63">
+</p>
 
-<img align="right" alt="Coding" width="280" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-doing-programming-opening-multi-working-tabs-on-the-desktop-2381447-1997255.png">
+---
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
