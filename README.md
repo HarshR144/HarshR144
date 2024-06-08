@@ -3,6 +3,7 @@
 </p>
 
 ---
+- 😀 Hello Everyone! I'm Harsh 👨‍💻
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
@@ -17,6 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
+<p align="center"> 
+   <a href="mailto:harsh.repal2003@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail"/></a>
+  <a href="https://www.linkedin.com/in/harsh-repal-665a17229/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin"/></a>
+  <a href="https://leetcode.com/u/harshr40/"><img src="https://img.icons8.com/?size=96&id=fiCYSJOnXi7E&format=png&color=000000" title="leetcode"/></a>
 </p>
 
 
