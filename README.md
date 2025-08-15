@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/HarshR144/HarshR144/assets/112339307/3f6ccbe7-845c-4c67-9297-d2a9919dae63">
-</p>
-
----
 - 😀 Hello Everyone! I'm Harsh 👨‍💻
 
 - 🌱 I’m currently learning **Full Stack Web development**
